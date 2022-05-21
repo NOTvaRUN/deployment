@@ -1,0 +1,10 @@
+{
+  "ip": "http://192.168.0.105:694",
+  "version": "/api/v1",
+  "api": {
+    "UPCOMING": "/events/upcoming",
+    "CURRENT": "/events/current",
+    "CHAT": "/events/send",
+    "HISTORY": "/events/history"
+  }
+}
